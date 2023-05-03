@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "https://sourcemediakw.com/wp-content/uploads/2023/04/UIUX.png",
+    "courseName": "UI/Ux design",
+    "premiumPrice": "29.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "2",
+    "thumbnail": "https://img.freepik.com/premium-vector/trendy-design-icon-machine-learning_362714-18.jpg?w=2000",
+    "courseName": "Machine learning",
+    "premiumPrice": "39.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "3",
+    "thumbnail": "https://s3.amazonaws.com/coursesity-blog/2020/07/data-structure-algorithm-courses.png",
+    "courseName": "Data structure and algorithms",
+    "premiumPrice": "33.49$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "4",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875/960x0.jpg?format=jpg&width=960",
+    "courseName": "Artificial Intelligence",
+    "premiumPrice": "69.69$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "5",
+    "thumbnail": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+    "courseName": "Database management",
+    "premiumPrice": "55.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "6",
+    "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+    "courseName": "Digital marketing",
+    "premiumPrice": "20.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "7",
+    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/643016813686d8eafca00875/960x0.jpg?format=jpg&width=960",
+    "courseName": "Artificial Intelligence",
+    "premiumPrice": "69.69$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "8",
+    "thumbnail": "https://img.freepik.com/premium-vector/trendy-design-icon-machine-learning_362714-18.jpg?w=2000",
+    "courseName": "Machine learning",
+    "premiumPrice": "39.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  },
+  {
+    "id": "9",
+    "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+    "courseName": "Digital marketing",
+    "premiumPrice": "20.99$",
+    "course_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo illum aperiam dolor deleniti ad! Facilis rem dolor, inventore eaque unde ....asperiores dolorem qui veritatis suscipit quasi, quibusdamvoluptatibus commodi quae!"
+  }
+]
